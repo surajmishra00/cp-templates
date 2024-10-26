@@ -1,13 +1,39 @@
-# README
+# **General Resources for Competitive Programming 🏆**
 
-Some material has been moved to the [USACO Guide](https://usaco.guide/).
+Welcome to my repository of **competitive programming templates**! This collection includes essential algorithms, data structures, and coding patterns to help you perform efficiently in contests.
 
-## Notes
+---
 
-I am not planning to update:
+## 📂 **Repository Contents**
+- **Sorting Algorithms**  
+  - Merge Sort, Quick Sort, Counting Sort, etc.
 
-- READMEs for most implementations
-- USACO problem tables and solutions
-  - Tables for recent USACO problems can be found [here](https://usaco.guide/general/usaco-monthlies).
+- **Graph Algorithms**  
+  - DFS, BFS, Dijkstra's, Bellman-Ford, Floyd-Warshall
 
-Since I frequently move stuff around, some READMEs may refer to files which no longer exist. If you would like to contribute, provide feedback, or encourage me to update something, please email me at *bqi343@gmail.com* or submit a pull request. If you have a question, please read the entirety of "Resources" -> "Questions.md" first.
+- **Data Structures**  
+  - Segment Tree, Fenwick Tree, Disjoint Set Union (DSU), Trie
+
+- **Dynamic Programming (DP)**  
+  - Knapsack, Longest Increasing Subsequence (LIS), Matrix Chain Multiplication
+
+- **Mathematics and Number Theory**  
+  - Sieve of Eratosthenes, Modular Arithmetic, Fast Exponentiation
+
+- **Bit Manipulation Techniques**  
+  - Subset generation, XOR tricks, Bitmasks  
+
+---
+
+## 🚀 **Features**
+- **Pre-written, reusable code snippets** to save time during contests.  
+- **Optimized for fast I/O** (C++ code with `ios_base::sync_with_stdio(false)` and `cin.tie(0)`).  
+- **Modular design** for quick customization based on problem needs.  
+- **Battle-tested in various contests** (including Codeforces, AtCoder, and USACO).  
+
+---
+
+## 📜 **Usage**
+1. Clone the repository to your local machine:  
+   ```bash
+   git clone https://github.com/surajmishra00/cp-templates.git
